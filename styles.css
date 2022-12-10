@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+.recipe-list {
+    font-size: 24px;
+    color: white;
+}
+
+.lasagna, .curry, .cake {
+    width: 300px;
+    height: auto;
+}
+
+.unordered-list, 
+.ordered-list {
+    color: white;
+    font-size: 22px;
+}
